@@ -1,15 +1,17 @@
 Roteiro da Prova (Tempo previsto de prova 3hrs)
 =======================
 
--Criar database, com qualquer nome, no Microsoft SQL Server (Utilizar Windows Authentication para logar no SQL Server)
+Observação: Para fazer o teste deve ser criado um Fork do projeto e quando finalizar criar um Pull Request.
+
+Sobre a prova os passo são os seguintes:
+
+-Criar database, com o nome desejado no SQL Server(qualquer versão).
 
 -Rodar o Script.sql que esta dentro da pasta Rakuten.Test na database criada e garantir que todas as tabelas e procedures sejam criadas corrigindo todos os erros de script
 
 -Correções e Melhorias:
 
-	- Configurar a Connection String do projeto Rakuten.Test.Webservice para acessar o banco de dados
-
-	- O Projeto está apresentando erros de compilação, faz parte do teste identificar e corrigir esses erros para que o projeto compile
+	- O Projeto irá apresentar erros de compilação, faz parte do teste identificar e corrigir esses erros para que o projeto compile
 
 	-Tela de usuários
 	A tela de usuários precisa estar com as ações de listar, inserir, alterar e remover funcionando corretamente(testar e corrigir todas as funcionalidades que apresentem erros)
@@ -27,3 +29,4 @@ Roteiro da Prova (Tempo previsto de prova 3hrs)
 
 	Será necessário criar um novo método no serviço Order.asmx, altere o status do pedido. O nome do método deve ser ChangeOrderStatus e receberá como parâmetros o id do pedido e o status que o pedido será alterado e irá alterar a coluna CurrentStatus do pedido passado.
   
+  Boa Sorte
