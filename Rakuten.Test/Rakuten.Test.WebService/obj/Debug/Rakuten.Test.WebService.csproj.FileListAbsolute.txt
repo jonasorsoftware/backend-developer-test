@@ -1,0 +1,29 @@
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.dll.config
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.pdb
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\bin\Rakuten.Test.Core.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\bin\Rakuten.Test.Core.pdb
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.pdb
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.pdb
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.Core.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.Core.pdb
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.csprojResolveAssemblyReference.cache
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.pdb
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.dll
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.pdb
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.Core.dll
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.Core.pdb
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.csprojResolveAssemblyReference.cache
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.dll
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.pdb
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.dll
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.WebService.pdb
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.Core.dll
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.WebService\bin\Rakuten.Test.Core.pdb
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.csprojResolveAssemblyReference.cache
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.dll
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.WebService\obj\Debug\Rakuten.Test.WebService.pdb

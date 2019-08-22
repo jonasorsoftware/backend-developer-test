@@ -1,0 +1,45 @@
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Rakuten.Test.Web.dll.config
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Rakuten.Test.Web.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Rakuten.Test.Web.pdb
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\System.Web.Optimization.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\WebGrease.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\System.Web.Optimization.xml
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.dll
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.pdb
+C:\Users\Ricardo\documents\visual studio 2013\Projects\Rakuten.Test.Web\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.csprojResolveAssemblyReference.cache
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Rakuten.Test.Web.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Rakuten.Test.Web.pdb
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Antlr3.Runtime.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Newtonsoft.Json.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\System.Web.Optimization.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\WebGrease.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Newtonsoft.Json.xml
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\System.Web.Optimization.xml
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Antlr3.Runtime.pdb
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.csprojResolveAssemblyReference.cache
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.dll
+C:\Users\entrevista\Desktop\Rakuten.Test\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.pdb
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.csprojResolveAssemblyReference.cache
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.dll
+D:\BKP\Meus Documentos\ProvaPleno\Rakuten.Test\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.pdb
+C:\Users\leandro.abreu\Desktop\Prova\Rakuten.Test\Rakuten.Test.Web\obj\Debug\Rakuten.Test.Web.csprojResolveAssemblyReference.cache
