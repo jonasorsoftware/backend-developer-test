@@ -27,6 +27,6 @@ Sobre a prova os passo são os seguintes:
 	-Webservice de pedidos (Order.asmx)
 	Será necessário criar um novo método no serviço Order.asmx, que exiba apenas os pedidos que não estão marcados como integrados(Orders com o campo Integrated = 0). O nome do método deve ser GetNewOrders
 
-	Será necessário criar um novo método no serviço Order.asmx, altere o status do pedido. O nome do método deve ser ChangeOrderStatus e receberá como parâmetros o id do pedido e o status que o pedido será alterado e irá alterar a coluna CurrentStatus do pedido passado.
+	Será necessário criar um novo método no serviço Order.asmx, que altere o status do pedido. O nome do método deve ser ChangeOrderStatus e receberá como parâmetros o id do pedido e o status que o pedido será alterado e irá alterar a coluna CurrentStatus do pedido passado.
   
   Boa Sorte
