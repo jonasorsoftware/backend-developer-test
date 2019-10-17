@@ -1,0 +1,29 @@
+﻿@{
+    Busines.Pagina pagina = ViewBag.Pagina;
+}
+
+<div class=" jumbotrom">
+    <h3>Nova pagina</h3>
+    </div>
+    <a href="/paginas" class="btn btn-default">Voltar</a>
+    </div>
+
+    <form action="/paginas/@pagina.Id/alterar" method="post">
+         <div class="form-group">
+            <label for="nome"> Nome:</label>
+            <input type="text" class="form-control" id="nome" value="@pagina.Nome" name="nome">
+        </div>
+        <div class="form-group">
+            <label for="data"> Data:</label>
+            <input type="datetime" class="form-control" id="data" value="@pagina.Data" name="data">
+    </div>
+    <div class="form-group">
+        <label for="conteudo">Conteúdo:</label>
+        <script src="https://cdn.tiny.cloud/1/7u7rzrkdswe2p3qxq8q45rqauszzgelt8zhz5amre5fo6w5t/tinymce/5/tinymce.min.js"></script>
+        <script>tinymce.init({ selector: 'textarea' });</script>
+        <textarea id="conteudo" name="conteudo" class="form-control">@pagina.Conteudo</textarea>
+    </div>
+    <button type="submit" class="btn btn-default">Alterar</button>
+</form>
+
+</div>

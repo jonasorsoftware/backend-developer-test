@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Paginas";
+    List<Busines.Pagina> paginas = ViewBag.Paginas;
+}
+<script>
+    var ValidaExclusao = function (id, evento) {
+        if (confirm("Confirma exclusão?")) {
+            return true;
+        }
+        else {
+            evento.preventDefault();
+            return false;
+        } 
+    }
+</script>
+
+@if (TempData["Sucesso"] != null)
+    {
+        <div class="alert alert-success">@TempData["Sucesso"]</div>
+    }
+    @if (TempData["Erro"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Erro"]</div>
+    }
+
+<div class="jumbotron">
+    <h3>Paginas</h3>
+    <div>
+        <a href="/paginas/novo" class="btn btn-default">Novo Cadastro</a>
+    </div>
+    <table class="table">
+        <tr>
+            <td>ID</td>
+            <td>Nome</td>
+            <td>Data</td>
+            <td>Anotações</td>
+
+        </tr>
+        @foreach (var p in paginas)
+        {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Nome</td>
+            <td>@p.Data</td>
+            <td>@Html.Raw(p.Conteudo)</td>
+            <td>
+                <a href="/paginas/@p.Id/preview" target="_blank"class="btn btn-warning">Anotações</a>
+            </td>
+            <td>
+                <a href="/paginas/@p.Id/editar" class=" btn btn-primary">Alterar dados</a>
+            </td>
+            <td>
+                <a href="/paginas/@p.Id/excluir" class=" btn btn-danger" onclick="ValidaExclusao(@p.Id, event)">Excluir dados</a>
+            <td>
+        </tr>
+        }
+
+    </table>
+</div>
+
