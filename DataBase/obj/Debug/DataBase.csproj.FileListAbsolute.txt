@@ -1,0 +1,16 @@
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\DataBase.dll
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\DataBase.pdb
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.dll
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.pdb
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jonas.barbosa\source\repos\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\jonas.barbosa\Desktop\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\jonas.barbosa\Desktop\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\jonas.barbosa\Desktop\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.dll
+C:\Users\jonas.barbosa\Desktop\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.pdb
